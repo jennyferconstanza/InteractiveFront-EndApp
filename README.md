@@ -21,4 +21,4 @@ THEN I am taken to the corresponding section of the README
 ```
 ## Links 
 ### Link to Video Demo [URL](https://drive.google.com/file/d/1vTC89tbEaGveCrxC7GwTn9uz6_FTA3BX/view)
-README file that is generate located in "Develop" folder 
+README file that is generated located in "Develop" folder 
